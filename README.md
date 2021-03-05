@@ -9,4 +9,4 @@ The project is structured on MS's official C# console app tutorial, found [here.
 The tutorial covers how to make a calculator, I instead made it convert temperatures in Celcius, Fahrenheit, and Kelvin. 
 
 ## Usage
-To be added
+Look at the Releases on the right side. Download the .exe (for Windows) or the .dll (requires the .NET runtime on your compouter). 
